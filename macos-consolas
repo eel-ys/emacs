@@ -1,0 +1,6 @@
+Скачиваем Open XML File Format Converter For Mac
+Если после скачивания образ не примонтировался, даблкликаем по нему. 
+Открываем контент пакета (Правой кнопкой мыши выпадающее меню, Show Package Contents)
+Переходим в Contents/Packages и устанавливаем OpenXML_all_fonts.pkg
+
+http://www.microsoft.com/downloads/en/details.aspx?FamilyId=6B9238E1-CF69-48C4-BF2D-C4A8ACEEE520&displaylang=en
